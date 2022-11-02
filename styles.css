@@ -1,43 +1,7 @@
 /* Import Google Fonts */
 @import url("//fonts.googleapis.com/css2?family=Hind:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
 
-/* Body */
-body{
- margin-left:0px;
- margin-right:0px;
- margin-top:0px;
- margin-bottom:0px;
- background-image:url("https://images.unsplash.com/photo-1501696461415-6bd6660c6742?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8MTR8fHdhbGxwYXBlcnxlbnwwfHx8fDE2NjA3ODI5MTc&ixlib=rb-1.2.1&q=80&w=2560");
- background-size:cover;
- background-attachment:fixed;
- backdrop-filter:blur(3.1px) hue-rotate(322deg);
-}
 
-/* Heading */
-h6{
- position:relative;
- top:543px;
- font-family:"Hind", sans-serif;
- font-weight:300;
- color:rgba(79,79,79,0.56);
-}
-
-/* Body */
-body{
- text-align:center;
-}
-
-/* Link */
-h1 a{
- font-family:"Hind", sans-serif !important;
- text-decoration:none;
- color:#e2e2e2;
- font-weight:300;
- font-size:80px;
- line-height:98.3px;
- position:relative;
- top:100px;
-}
 
 /* Scrollbar Removal */
 body {
