@@ -1,12 +1,36 @@
-/* Import Google Fonts */
-@import url("//fonts.googleapis.com/css2?family=Hind:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
-
-
-
-/* Scrollbar Removal */
-body {
-  overflow-y: hidden; /* Hide vertical scrollbar */
-  overflow-x: hidden; /* Hide horizontal scrollbar */
+/* Body */
+body{
+ margin-top:0px;
+ margin-left:0px;
+ margin-bottom:0px;
+ margin-right:0px;
+ text-align:center;
+ background-image:url("https://images.unsplash.com/photo-1667429517242-90d8d7e5165f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxhbGx8MTN8fHx8fHwyfHwxNjY3NTEzODY1&ixlib=rb-4.0.3&q=80&w=2560");
+ backdrop-filter:blur(10px);
+ font-weight:300;
 }
 
-/* No more CSS! */
+/* Heading */
+h6{
+ grid-template-columns:auto;
+ grid-template-rows:auto;
+ margin-bottom:0px;
+ padding-top:200px;
+ color:#0000ee;
+ font-weight:300;
+}
+
+/* Heading */
+h1{
+ font-size:65px;
+ text-decoration:none;
+ font-weight:300;
+}
+
+/* Link */
+h1 a{
+ text-decoration:none;
+ color:#0000ee;
+}
+
+/* CSS END! */
