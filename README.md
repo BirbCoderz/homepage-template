@@ -1,6 +1,6 @@
 # TO CHOOSE YOUR OWN URLS, LOOK BELOW!
-*You can not just press "Use Template"
-Yes, you need to press "Use Template", but you have to do more.*
+****You can not just press "Use Template"
+Yes, you need to press "Use Template", but you have to do more.****
 First, press use template.
 If you do not have a Github pages site, call it (Your Username Here).github.io.
 If you do have a Github pages site, call it homepage.
