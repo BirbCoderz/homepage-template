@@ -6,7 +6,6 @@ body{
  margin-right:0px;
  text-align:center;
  background-image:url("https://images.unsplash.com/photo-1667429517242-90d8d7e5165f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxhbGx8MTN8fHx8fHwyfHwxNjY3NTEzODY1&ixlib=rb-4.0.3&q=80&w=2560");
- backdrop-filter:blur(10px);
  font-weight:300;
 }
 
